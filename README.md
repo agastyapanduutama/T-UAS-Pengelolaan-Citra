@@ -3,11 +3,11 @@ UAS Praktek Pengelolaan Citra
 
 
 Tools yang digunakan : 
-Jupyter Notebook 
-Python3
-Opencv
+Jupyter Notebook,
+Python3,
+Opencv,
 
 Library : 
-Opencv
-Matplotlib
-Numpy
+Opencv,
+Matplotlib,
+Numpy,
